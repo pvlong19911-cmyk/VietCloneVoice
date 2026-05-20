@@ -15,9 +15,7 @@ Phần mềm tổng hợp & clone giọng nói tiếng Việt
 3. Mở thư mục `VietCloneVoice`
 4. Chạy `VietCloneVoice.exe`
 
-## 🆓 Gói miễn phí
-- 3 lượt chuyển đổi mỗi ngày
-- Nâng cấp Pro: 500,000 VND — không giới hạn
+
 
 ## 💬 Hỗ trợ
 Tham gia nhóm Zalo để được hỗ trợ sử dụng
