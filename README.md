@@ -7,7 +7,6 @@ Phần mềm tổng hợp & clone giọng nói tiếng Việt
 
 ## 💻 Yêu cầu hệ thống
 - Windows 10/11 x64
-- RAM: 8 GB trở lên
 - GPU NVIDIA (khuyến nghị) hoặc CPU
 
 ## 📦 Hướng dẫn cài đặt
