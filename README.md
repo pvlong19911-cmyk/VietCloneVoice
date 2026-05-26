@@ -3,7 +3,7 @@ Phần mềm tổng hợp & clone giọng nói tiếng Việt
 
 ## ⬇️ Tải xuống
 
-[![Tải VietCloneVoice](https://img.shields.io/badge/⬇_Tải_về-VietCloneVoice_v1.0-blue?style=for-the-badge)](https://drive.google.com/file/d/1bAyYrklfIIMVNDS8Sp2uQRtvz1euOZVZ/view?usp=sharing)
+[![Tải VietCloneVoice](https://img.shields.io/badge/⬇_Tải_về-VietCloneVoice_v1.0-blue?style=for-the-badge)](https://drive.google.com/file/d/1x_KXgVpojpFR_j2E1jKgqXKX6ojpkODr/view?usp=sharing)
 
 ## 💻 Yêu cầu hệ thống
 - Windows 10/11 x64
